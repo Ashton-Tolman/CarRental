@@ -1,6 +1,6 @@
 ﻿namespace CarRental
 {
-    partial class Form1
+    partial class CarRentalForm
     {
         /// <summary>
         ///  Required designer variable.
